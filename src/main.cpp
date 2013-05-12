@@ -1,8 +1,4 @@
-//
-// This function will reverse a C-style string.  
-// The general approach here is to set up a pointer at the back of the string
-// as well as a pointer to the end of the string.  The two pointers will 
-// walk towards one another and swap values
+
 
 #include <stdio.h>
 
