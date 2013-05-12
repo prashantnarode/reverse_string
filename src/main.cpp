@@ -1,5 +1,4 @@
 
-
 #include <stdio.h>
 
 
@@ -8,7 +7,6 @@ void reverse_string(char* start){
   char* end = start;
   char tmp;
  
-  // move the 'end' pointer to the last character
   while ( *end){ 
     end++;
   }
